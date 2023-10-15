@@ -5,3 +5,7 @@ const register = (user) => {
 const addCourse = (course) => {
     return true
 }
+
+const like = (like)=>{
+    return true
+}
