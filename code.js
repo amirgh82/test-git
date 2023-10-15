@@ -9,3 +9,7 @@ const addCourse = (course) => {
 const like = (like)=>{
     return true
 }
+
+const isValid = (isvalid)=>{
+    return false
+}
